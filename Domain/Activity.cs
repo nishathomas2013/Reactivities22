@@ -13,6 +13,6 @@ namespace Domain
         public string City{get;set;}
 
         public string Venue {get;set;}
-        public string Venuues {get;set;}
+        public string Venues {get;set;}
     }
 }
